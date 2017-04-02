@@ -1,1 +1,3 @@
 Icons created by Stefania Servidia CC BY 3.0
+
+HeatLamp based on https://github.com/idottv/express-cache-control (Copyright (c) 2013 i.TV LLC)
